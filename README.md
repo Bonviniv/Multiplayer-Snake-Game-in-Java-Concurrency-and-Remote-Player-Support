@@ -1,2 +1,2 @@
 # PCD
-The project is a distributed, concurrent game called Snakes, inspired by the classic Snake game. Automatically controlled snakes compete for prizes on a board. The focus is on concurrency, coordination, and network programming for remote players. The game is developed using Java
+The project involves developing a distributed, concurrent game called Snakes, based on the classic Snake game. The snakes are controlled automatically, competing to capture prizes on a board. The game emphasizes coordination and concurrency, and in its second phase, introduces network programming for remote players. The project is implemented in Java
